@@ -83,6 +83,11 @@ Clash for Windows for Mac 是 Clash for Windows 作者的另一款作品。所�
 
 默认情况下，Clash 使用 Rule (规则) 模式。不推荐选择 Global (全局) 与 Direct (直连) 模式。  
 
+全局（Global）：所有请求直接发往代理服务器  
+规则（Rule）：所有请求根据配置文件规则进行分流  
+直连（Direct）：所有请求直接发往目的地  
+PAC模式:这个模式是根据PAC文件，来判断请求是否要经过代理。
+
 
 Clash 支持通过策略组，对不同的网站使用不同的策略。合理使用分流可以提升使用体验。
 
