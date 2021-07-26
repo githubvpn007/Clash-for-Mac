@@ -101,5 +101,12 @@ Clash 支持通过策略组，对不同的网站使用不同的策略。合理�
 ![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/8.jpg)   
 
 
+<br/>
+<br/>
 
+
+
+### 本项目不做VPN分享，如果您希望获得最佳的科学上网方案 [点击这里](https://github.com/githubvpn007/v2rayNvpn)  
+
+### 如果你想知道clash/ss/ssr/v2ray/trojan 的区别的话 [请点这里](https://github.com/githubvpn007/proxy)
 
