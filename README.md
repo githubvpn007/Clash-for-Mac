@@ -28,9 +28,13 @@ Clash for Windows for Mac 是 Clash for Windows 作者的另一款作品。所�
 
 由于 macOS 默认情况下只允许运行可信任签名的应用，如果 macOS 阻止运行该软件，请打开 macOS 终端，在新建的终端 Shell 中输入：  
 
+`sudo spctl --master-disable`
+
 ![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/2.png)  
 
 由于调用了sudo权限，你可能需要输入密码，会输出如下提示：  
+
+`Password:`
 
 ![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/3.png)  
 
