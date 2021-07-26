@@ -89,7 +89,7 @@ Clash 支持通过策略组，对不同的网站使用不同的策略。合理�
 2.开启 System Proxy (系统代理)，即可科学上网。  
 
 
-
+![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/8.jpg)   
 
 
 
