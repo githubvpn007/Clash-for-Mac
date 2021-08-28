@@ -1,5 +1,5 @@
 # Clash-for-Mac
-Clash for Windows for Mac，Clash for Windows for Mac教程，Clash for Windows for Mac配置说明，Clash for Mac，vpn代理协议
+Clash for Windows for Mac，Clash for Windows for Mac教程，Clash for Windows for Mac配置说明，Clash for Mac，vpn代理
 
 
 简介
