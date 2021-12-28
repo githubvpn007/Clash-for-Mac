@@ -22,7 +22,7 @@ Clash for Windows for Mac 是 Clash for Windows 作者的另一款作品。所�
 
 打开下载完成的 dmg 映像文件，将 Clash for Windows 添加到应用程序文件夹中。  
 
-![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/1.jpg)  
+![](https://i.postimg.cc/wMtrdgWG/1.png)  
 
 如果macOS阻止运行该软件，请执行以下操作：  
 
@@ -30,13 +30,13 @@ Clash for Windows for Mac 是 Clash for Windows 作者的另一款作品。所�
 
 `sudo spctl --master-disable`
 
-![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/2.png)  
+![](https://i.postimg.cc/9FD2WjRV/2.png)  
 
 由于调用了sudo权限，你可能需要输入密码，会输出如下提示：  
 
 `Password:`
 
-![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/3.png)  
+![](https://i.postimg.cc/nzV8N8by/3.png)  
 
 
 此时你需要输入密码，在 Shell 中输入的密码是不可见的，输入完毕后请按回车键。  
@@ -54,19 +54,19 @@ Clash for Windows for Mac 是 Clash for Windows 作者的另一款作品。所�
 
 2.打开 Clash for Windows for Mac 后，点击窗口左侧的 Profiles (配置文件)。
 
-![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/4.jpg)   
+![](https://i.postimg.cc/7YGFFMdZ/4.png)   
 
 
 
 3.在 Profiles 页面顶部，输入 Clash 配置订阅链接，然后点击 Download 下载配置文件。  
 
-![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/5.jpg)   
+![](https://i.postimg.cc/wxGK4bWr/5.png)   
 
 
 4.下载成功后，Clash for Windows 将自动切换配置文件。
 
 
-![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/6.jpg)   
+![](https://i.postimg.cc/TYzzf5vq/6.png)   
 
 
 
@@ -91,14 +91,14 @@ PAC模式:这个模式是根据PAC文件，来判断请求是否要经过代理�
 
 Clash 支持通过策略组，对不同的网站使用不同的策略。合理使用分流可以提升使用体验。
 
-![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/7.jpg)   
+![](https://i.postimg.cc/fyF63Jts/7.png)   
 
 
 
 2.开启 System Proxy (系统代理)，即可科学上网。  
 
 
-![](https://github.com/githubvpn007/Clash-for-Mac/blob/main/images/8.jpg)   
+![](https://i.postimg.cc/bw1KJYzX/8.png)   
 
 
 <br/>
