@@ -16,7 +16,7 @@ Clash for Windows for Mac 是 Clash for Windows 作者的另一款作品。所�
 下载安装
 ----
 
-[下载地址](https://archive.org/download/clash_for_windows_pkg)  
+[下载地址](https://archive.org/download/clash_for_windows_pkg)     [备用地址](https://web.archive.org/web/20231030023222/https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 从releases界面下载.dmg格式的文件进行安装。  
 
